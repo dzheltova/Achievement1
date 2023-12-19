@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega8"</DEVICE>
+ <WORKING_DIR>C:\Users\roman\Documents\achievement1\achievement1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\roman\Documents\achievement1\achievement1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Users\roman\Documents\achievement1\achievement1\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\roman\Documents\achievement1\achievement1\Debug\achievement1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>achievement1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>achievement1.map</FILE>
+  <FILE>achievement1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <TIMER1_STR><FILE>C:\Users\roman\Documents\achievement1\achievement1\main.asm</FILE><LINE>6</LINE></TIMER1_STR>
+  <TIMER2_STR><FILE>C:\Users\roman\Documents\achievement1\achievement1\main.asm</FILE><LINE>7</LINE></TIMER2_STR>
+  <_start><FILE>C:\Users\roman\Documents\achievement1\achievement1\main.asm</FILE><LINE>10</LINE></_start>
+  <main_loop><FILE>C:\Users\roman\Documents\achievement1\achievement1\main.asm</FILE><LINE>55</LINE></main_loop>
+  <TIMER1_INT><FILE>C:\Users\roman\Documents\achievement1\achievement1\main.asm</FILE><LINE>59</LINE></TIMER1_INT>
+  <send_timer1><FILE>C:\Users\roman\Documents\achievement1\achievement1\main.asm</FILE><LINE>65</LINE></send_timer1>
+  <TIMER1_done><FILE>C:\Users\roman\Documents\achievement1\achievement1\main.asm</FILE><LINE>72</LINE></TIMER1_done>
+  <send_usart><FILE>C:\Users\roman\Documents\achievement1\achievement1\main.asm</FILE><LINE>95</LINE></send_usart>
+  <TIMER2_INT><FILE>C:\Users\roman\Documents\achievement1\achievement1\main.asm</FILE><LINE>77</LINE></TIMER2_INT>
+  <send_timer2><FILE>C:\Users\roman\Documents\achievement1\achievement1\main.asm</FILE><LINE>83</LINE></send_timer2>
+  <TIMER2_done><FILE>C:\Users\roman\Documents\achievement1\achievement1\main.asm</FILE><LINE>90</LINE></TIMER2_done>
+  <wait_for_transmit><FILE>C:\Users\roman\Documents\achievement1\achievement1\main.asm</FILE><LINE>97</LINE></wait_for_transmit>
+ </LABELS>
+</ASSEMBLER_INFO>
